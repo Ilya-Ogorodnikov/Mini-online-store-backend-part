@@ -1,1 +1,1 @@
-# Mini-online-store-backend-part
+#VKR-Online-shop-of-sport-goods
